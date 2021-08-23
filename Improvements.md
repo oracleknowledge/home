@@ -2,6 +2,7 @@
 * Innoveli Zwave Switches, LZW36 Fan/Light
 * Innoveli Zwave Switches, Bathroom Vent Fans LZW30-SN
 * GE/Jasco Zwave Switches, replacing normal switches
+* Add Outlets w/USB for Charging (USB-A and USB-C)
 * Philips Hue Bulbs/Lights Strips
 * Garage Door Automation: Tailwind
 * In-Line Water Filters Kitchen + Bathroom
